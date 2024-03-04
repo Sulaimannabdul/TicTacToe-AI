@@ -1,0 +1,6 @@
+README AI WORKS
+
+AI:" AI learns and improves itself rapidly through a process called machine learning, which includes techniques such as reinforcement learning. In the context of a Tic Tac Toe game, we can use reinforcement learning as an example to illustrate how AI can learn and upgrade itself.
+Reinforcement learning is a type of machine learning where an agent learns to make decisions by taking actions in an environment to achieve a goal. The agent receives rewards or penalties based on the outcomes of its actions, guiding it to learn the best strategies over time.
+
+Sample of practice: Imagine an AI trained to play Tic Tac Toe using reinforcement learning. Initially, its moves are random and often result in quick losses. However, after playing thousands of games, it starts to "understand" the importance of the center square, blocking opponent moves, and setting up two-way wins. This learning process is entirely data-driven, based on outcomes and feedback, without any explicit programming of strategies or tactics.
